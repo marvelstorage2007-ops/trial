@@ -1,575 +1,458 @@
 <!-- ========================================================= -->
 
-<!--                    HERO SECTION                           -->
+<!--              FUTURISTIC DEVELOPER PROFILE                -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=YOUR%20NAME&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- FUTURISTIC HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,25:001F3F,50:003B5C,75:00A8E8,100:00F5FF&text=YOUR%20NAME&fontColor=FFFFFF&fontSize=65&fontAlignY=40&animation=twinkling&desc=ENGINEERING%20THE%20FUTURE%20%7C%20CODE%20%7C%20DATA%20%7C%20AI%20%7C%20IoT&descAlignY=62&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=900&lines=IoT+Engineering+Student+%F0%9F%8E%93;Data+Analytics+Enthusiast+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Explorer+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A0;Building+Ideas+Into+Real+Projects+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=1000&lines=%5B+SYSTEM+ONLINE+%5D;%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+IoT+ENGINEERING+%7C+DATA+%7C+AI+%7C+FULL+STACK;%3E+BUILDING+THE+NEXT+GENERATION+OF+SOFTWARE;%3E+WELCOME+TO+MY+DIGITAL+LABORATORY_"/>
 
 <br><br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github&color=181717"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&logo=github&color=yellow"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MODE-ENGINEERING-FF00FF?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
 ---
 
-# 👨‍💻 `whoami`
+# `01 // SYSTEM IDENTITY`
 
-```bash
-┌──(developer㉿github)-[~/portfolio]
-└─$ whoami
-
-> YOUR NAME
-
-┌──(developer㉿github)-[~/portfolio]
-└─$ cat profile.txt
-
-Name        : YOUR NAME
-Role        : IoT Engineering Student
-Location    : Jaipur, Rajasthan 🇮🇳
-Focus       : Software Development + Data Analytics
-Languages   : C++ | Python | JavaScript
-Interests   : AI | ML | IoT | Web Development
-Currently   : Building & Learning 🚀
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     DIGITAL IDENTITY                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  USER            : YOUR NAME                                ║
+║  CLASS           : IoT ENGINEER / DEVELOPER                 ║
+║  BASE            : JAIPUR, INDIA                            ║
+║  PRIMARY STACK   : C++ / PYTHON / JAVASCRIPT                ║
+║  SPECIALIZATION  : DATA + AI + IoT + SOFTWARE               ║
+║  STATUS          : ████████████████████ 100% ONLINE         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-
----
-
-# 🧬 Developer Identity
 
 <div align="center">
 
-```text
-                    ┌──────────────────────┐
-                    │      DEVELOPER       │
-                    └──────────┬───────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-        💻 DEVELOPMENT    📊 DATA & AI       🌐 IoT
-             │                 │                 │
-             ▼                 ▼                 ▼
-        React / Node       Python / ML      Embedded C
-        FastAPI            Pandas           Microcontrollers
-        REST APIs          Power BI         Sensors
-        Databases          NumPy            Automation
-```
+### `>>> ACCESSING DEVELOPER CORE...`
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=600&color=00FF88&center=true&vCenter=true&width=850&lines=%5BOK%5D+Core+Systems+Loaded;%5BOK%5D+Data+Analytics+Module+Loaded;%5BOK%5D+AI%2FML+Module+Loaded;%5BOK%5D+IoT+Module+Loaded;%5BOK%5D+Full+Stack+Module+Loaded;%5BREADY%5D+Awaiting+Next+Challenge..."/>
 
 </div>
 
 ---
 
-# 🚀 About Me
-
-Hey! I'm **YOUR NAME** 👋
-
-I'm an IoT engineering student who enjoys building technology that solves practical problems.
-
-My development journey combines:
-
-* 💻 Software Development
-* 📊 Data Analytics
-* 🤖 Artificial Intelligence
-* 🌐 Full-Stack Development
-* 🔌 IoT & Embedded Systems
-* 🧠 Data Structures & Algorithms
-* 🏆 Hackathon Projects
-
-I don't just want to learn technologies.
-
-**I want to build things with them.**
-
----
-
-# ⚡ Tech Arsenal
-
-## 👨‍💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,php"/>
-
-</p>
-
----
-
-## 🌐 Web Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,fastapi,vite"/>
-
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase"/>
-
-</p>
-
----
-
-## 📊 Data & AI
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</p>
-
----
-
-## 🛠️ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma"/>
-
-</p>
-
----
-
-# 🔥 Featured Projects
-
-<div align="center">
-
-## 🚗 DriveInsight
-
-### Vehicle Service & Customer Complaint Analytics
-
-<img src="https://img.shields.io/badge/Domain-Data%20Analytics-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Analytics-green?style=for-the-badge"/>
-
-</div>
-
-DriveInsight analyzes vehicle service data, customer complaints, service costs, ratings and dealer performance.
-
-### 🔥 Features
-
-```text
-Vehicle Analytics
-      ↓
-Customer Analysis
-      ↓
-Service Performance
-      ↓
-Complaint Analytics
-      ↓
-Dealer Performance
-      ↓
-Interactive Power BI Dashboard
-```
-
-**Stack**
-
-`Python` `Pandas` `NumPy` `Excel` `Power BI` `MySQL`
-
----
-
-<div align="center">
-
-## 🍱 MealRescue
-
-### Fighting Food Waste With Technology
-
-</div>
-
-MealRescue connects food donors with NGOs and organizations capable of redistributing surplus food.
-
-```text
-      🍕 Restaurants
-            │
-      🍱 Surplus Food
-            │
-            ▼
-      ┌─────────────┐
-      │ MealRescue  │
-      └──────┬──────┘
-             │
-             ▼
-       🏢 NGO / Partner
-             │
-             ▼
-        ❤️ People
-```
-
-**Goal:** Reduce food waste while improving food redistribution.
-
----
-
-<div align="center">
-
-## 💰 SpendSmart
-
-### Personal Finance & Expense Tracker
-
-</div>
-
-Track expenses, analyze spending patterns and manage personal finances.
-
-**Stack**
-
-`React Native` `Node.js` `MongoDB`
-
----
-
-<div align="center">
-
-## 🚘 AutoValue AI
-
-### Vehicle Resale Price Prediction
-
-</div>
-
-Machine-learning application that predicts estimated vehicle resale prices.
-
-**Stack**
-
-`Python` `Scikit-Learn` `Pandas` `Flask`
-
----
-
-# 🧠 Problem Solving
-
-I practice **Data Structures & Algorithms using C++**.
-
-```text
-                    🧠 DSA
-                     │
-        ┌────────────┼────────────┐
-        │            │            │
-      Arrays       Strings      Hashing
-        │            │            │
-     Sorting      Recursion    Searching
-        │            │            │
-    Linked List    Stack       Queue
-        │            │            │
-       Trees       Graphs       DP
-```
-
----
-
-# 🏆 GitHub Trophy Room
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut-vertical&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🧑‍💻 My Developer Journey
-
-```text
-2023
- │
- ├── 💻 Started Programming
- │
- ▼
-2024
- │
- ├── 🧠 C++ & DSA
- ├── 🌐 Web Development
- │
- ▼
-2025
- │
- ├── 📊 Data Analytics
- ├── 🤖 Machine Learning
- ├── 🚗 DriveInsight
- │
- ▼
-2026
- │
- ├── 🌐 Full-Stack Development
- ├── 🌐 IoT
- ├── 🏆 Hackathons
- ├── 🍱 MealRescue
- │
- ▼
-NEXT
- │
- └── 🚀 Building Bigger Things
-```
-
----
-
-# 🧪 Currently Building
+# `02 // ABOUT THE OPERATOR`
 
 <table>
 <tr>
+<td width="60%">
 
-<td width="50%">
+### 👋 Hello, World.
 
-### 🍱 MealRescue
+I'm **YOUR NAME**, an IoT engineering student and developer interested in building systems that combine:
 
-Food waste reduction platform.
+```text
+SOFTWARE
+    +
+DATA
+    +
+ARTIFICIAL INTELLIGENCE
+    +
+CONNECTED DEVICES
+    =
+REAL WORLD SOLUTIONS
+```
 
-`React` `Node.js` `Supabase`
+I enjoy taking an idea from:
 
-</td>
+**Concept → Architecture → Code → Data → Product**
 
-<td width="50%">
-
-### 🤖 AI Projects
-
-Exploring practical AI/ML applications.
-
-`Python` `ML` `APIs`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📊 Analytics
-
-Building dashboards and data-driven applications.
-
-`Power BI` `Python` `SQL`
+My interests sit at the intersection of **software engineering, data analytics, AI/ML and IoT**.
 
 </td>
 
-<td width="50%">
+<td width="40%">
 
-### 🔌 IoT
-
-Exploring embedded systems and connected devices.
-
-`C` `Microcontrollers` `Sensors`
+```text
+╭────────────────────────╮
+│    SYSTEM METRICS      │
+├────────────────────────┤
+│                        │
+│ ⚡ BUILD SPEED   HIGH  │
+│ 🧠 CURIOSITY    MAX    │
+│ 🔥 MOTIVATION   100%   │
+│ ☕ COFFEE        ████   │
+│ 💡 IDEAS        ∞      │
+│                        │
+╰────────────────────────╯
+```
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🎯 2026 Mission
-
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║  [✓] Improve DSA                                 ║
-║  [✓] Build Real-World Projects                  ║
-║  [ ] Master Full-Stack Development               ║
-║  [ ] Build Production AI Applications            ║
-║  [ ] Contribute to Open Source                   ║
-║  [ ] Participate in More Hackathons              ║
-║  [ ] Build Something People Actually Use         ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
----
-
-# 📚 Learning Right Now
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%2FML-845EC2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full%20Stack-00C9A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-0081CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-FFC75F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-4D8076?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🧑‍💼 Experience
-
-## 📊 Data Analytics Intern — Tata Motors
-
-Worked on data analytics and visualization using:
-
-```text
-Python
-Pandas
-NumPy
-Excel
-Power BI
-Google Colab
-```
-
-Focused on transforming raw datasets into useful analytical insights and interactive dashboards.
-
----
-
-# 🏆 Hackathon Mindset
-
-```text
-             💡 IDEA
-               │
-               ▼
-          🔍 RESEARCH
-               │
-               ▼
-          🧠 DESIGN
-               │
-               ▼
-          💻 DEVELOP
-               │
-               ▼
-           🧪 TEST
-               │
-               ▼
-          🚀 DEPLOY
-               │
-               ▼
-          🌍 IMPACT
-```
-
-I enjoy building solutions where **technology meets real-world problems**.
-
----
-
-# 💬 Developer Quote
+# `03 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-### `"First make it work. Then make it better."`
+### `CORE TECHNOLOGIES`
 
-<br>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,express,fastapi,vite,mysql,mongodb,supabase,git,github,vscode,postman,linux&perline=9"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80;Keep+Improving+%F0%9F%94%A5"/>
+<br><br>
+
+### `DATA / AI STACK`
+
+<img src="https://img.shields.io/badge/Pandas-00F5FF?style=for-the-badge&logo=pandas&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-00F5FF?style=for-the-badge&logo=numpy&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-00F5FF?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
+<img src="https://img.shields.io/badge/PowerBI-00F5FF?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-00F5FF?style=for-the-badge&logo=microsoftexcel&logoColor=black"/>
 
 </div>
 
 ---
 
-# 🌐 Let's Connect
+# `04 // PROJECT HOLOGRAM`
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 🚀 PROJECT MATRIX
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ PROJECT        DOMAIN              STATUS       STACK        ║
+╠══════════════════════════════════════════════════════════════╣
+║ DriveInsight   Data Analytics      ████████     Python       ║
+║ MealRescue     Social Impact       ████████     React        ║
+║ SpendSmart     FinTech             ███████░     Node         ║
+║ AutoValue AI   Machine Learning    ████████     Flask        ║
+║ ColdChain      IoT                 ██████░░     Embedded     ║
+║ Marketplace    Full Stack          ███████░     Web          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-# ⭐ Support My Work
-
-If you find my projects useful or interesting:
+## 🚗 `DRIVEINSIGHT // ANALYTICS ENGINE`
 
 ```text
-⭐ Star the repository
-🍴 Fork the project
-🐛 Report bugs
-💡 Suggest improvements
-🤝 Contribute
+                    ┌───────────────────┐
+                    │  RAW VEHICLE DATA │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │ DATA PREPROCESSOR  │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+              ┌──────────────────────────────┐
+              │     ANALYTICS ENGINE         │
+              │                              │
+              │ Customer │ Service │ Dealer  │
+              │ Complaint│ Cost    │ Rating  │
+              └──────────────┬───────────────┘
+                             │
+                             ▼
+                    ┌───────────────────┐
+                    │   POWER BI CORE   │
+                    └───────────────────┘
 ```
 
-Every contribution helps me improve. ❤️
+`Python` `Pandas` `NumPy` `Excel` `Power BI` `MySQL`
+
+---
+
+## 🍱 `MEALRESCUE // SOCIAL IMPACT ENGINE`
+
+```text
+          RESTAURANT
+              │
+              ▼
+        SURPLUS FOOD
+              │
+              ▼
+       ┌─────────────┐
+       │ MEALRESCUE  │
+       └──────┬──────┘
+              │
+       ┌──────┴───────┐
+       ▼              ▼
+     NGO            PARTNER
+       │              │
+       └──────┬───────┘
+              ▼
+        FOOD DELIVERY
+              │
+              ▼
+       COMMUNITY IMPACT
+```
+
+`React` `Node.js` `Supabase` `REST APIs`
+
+---
+
+# `05 // ACTIVE MISSIONS`
+
+<div align="center">
+
+```text
+╭─────────────────────────────────────────────────────────────╮
+│                     ACTIVE MISSIONS                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  [██████████████████░░] AI / ML                            │
+│  [████████████████░░░░] Full Stack                         │
+│  [███████████████░░░░░] Data Analytics                     │
+│  [██████████████░░░░░░] IoT                               │
+│  [████████████░░░░░░░░] System Design                     │
+│  [███████████░░░░░░░░░] Open Source                       │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# `06 // DEVELOPMENT TIMELINE`
+
+```text
+                 ┌──────────────────────────┐
+                 │       DEVELOPMENT        │
+                 │          TIMELINE        │
+                 └────────────┬─────────────┘
+                              │
+                              ▼
+                       💻 PROGRAMMING
+                              │
+                              ▼
+                         🧠 DSA
+                              │
+                              ▼
+                     🌐 WEB DEVELOPMENT
+                              │
+                              ▼
+                     📊 DATA ANALYTICS
+                              │
+                              ▼
+                       🤖 MACHINE LEARNING
+                              │
+                              ▼
+                           🌐 IoT
+                              │
+                              ▼
+                    🏆 HACKATHON PROJECTS
+                              │
+                              ▼
+                      🚀 PRODUCTION SYSTEMS
+                              │
+                              ▼
+                         ??? NEXT
+```
+
+---
+
+# `07 // GITHUB COMMAND CENTER`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050505&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# `08 // ACTIVITY RADAR`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050505&color=00F5FF&line=00F5FF&point=FF00FF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# `09 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+### `CONTRIBUTION SIGNAL DETECTED`
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# `10 // ACHIEVEMENT CORE`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=2&column=6"/>
+
+</div>
+
+---
+
+# `11 // PROBLEM SOLVING ENGINE`
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap"/>
+
+</div>
+
+---
+
+# `12 // DEVELOPER OPERATING SYSTEM`
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  DEVELOPER OS v2026                     ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  KERNEL                                                  ║
+║  ├── C++                                                 ║
+║  ├── Python                                              ║
+║  └── JavaScript                                          ║
+║                                                          ║
+║  DATA ENGINE                                             ║
+║  ├── Pandas                                              ║
+║  ├── NumPy                                               ║
+║  ├── SQL                                                 ║
+║  └── Power BI                                            ║
+║                                                          ║
+║  APPLICATION LAYER                                       ║
+║  ├── React                                               ║
+║  ├── Node.js                                             ║
+║  ├── FastAPI                                             ║
+║  └── REST APIs                                           ║
+║                                                          ║
+║  INTELLIGENCE LAYER                                     ║
+║  ├── Machine Learning                                    ║
+║  ├── Data Analytics                                      ║
+║  └── AI APIs                                             ║
+║                                                          ║
+║  HARDWARE LAYER                                          ║
+║  ├── Embedded Systems                                    ║
+║  ├── Microcontrollers                                    ║
+║  └── Sensors                                              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `13 // FUTURE TARGETS`
+
+<div align="center">
+
+| Mission             | Progress     |
+| ------------------- | ------------ |
+| 🧠 Advanced DSA     | `████████░░` |
+| 🤖 AI Engineering   | `███████░░░` |
+| 🌐 Full Stack       | `████████░░` |
+| 📊 Data Engineering | `██████░░░░` |
+| ☁️ Cloud            | `████░░░░░░` |
+| 🔐 Cyber Security   | `███░░░░░░░` |
+| 🌍 Open Source      | `████░░░░░░` |
+
+</div>
+
+---
+
+# `14 // TERMINAL`
+
+```bash
+$ sudo ./start_future.sh
+
+[INFO] Loading developer...
+[OK] Identity verified.
+
+[INFO] Loading skills...
+[OK] C++
+[OK] Python
+[OK] JavaScript
+[OK] React
+[OK] Node.js
+[OK] Data Analytics
+[OK] Machine Learning
+[OK] IoT
+
+[INFO] Loading projects...
+[OK] DriveInsight
+[OK] MealRescue
+[OK] SpendSmart
+[OK] AutoValue AI
+
+[INFO] Loading ambition...
+[████████████████████████████████████████] 100%
+
+SYSTEM STATUS: ONLINE
+
+$ ./build_future
+
+> ACCESS GRANTED_
+```
+
+---
+
+# `15 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/%3E_GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/%3E_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/%3E_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/%3E_LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00F5FF"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer&animation=fadeIn"/>
+# `>>> SYSTEM MESSAGE <<<`
 
-### 🚀 BUILD • LEARN • BREAK • FIX • REPEAT
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2200&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=The+future+is+not+something+we+wait+for.;The+future+is+something+we+build.;%3E+BUILDING..._"/>
 
-**Thanks for visiting my profile!**
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=00c6ff&style=flat-square"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0072FF,100:050505&height=180&section=footer&animation=twinkling"/>
 
 </div>
