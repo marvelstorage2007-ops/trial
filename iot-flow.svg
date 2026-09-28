@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220">
+<defs><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#00f0ff" stroke-opacity=".06"/></pattern></defs>
+<rect width="1000" height="220" fill="#050508"/><rect width="1000" height="220" fill="url(#grid)"/>
+<line x1="100" y1="110" x2="900" y2="110" stroke="#00f0ff" stroke-opacity=".5" stroke-width="2" stroke-dasharray="8 6"><animate attributeName="stroke-dashoffset" values="0;-28" dur="1s" repeatCount="indefinite"/></line>
+<g transform="translate(100 110)">
+<circle r="46" fill="none" stroke="#00f0ff" stroke-opacity=".5"><animate attributeName="r" values="42;58;42" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".6;0;.6" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<path d="M-62 -30H50L62 -18V30H-50L-62 18Z" fill="#0a0a14" stroke="#00f0ff" stroke-width="2" filter="url(#glow)"/>
+<text y="4" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="bold" fill="#fff" letter-spacing="1">SENSOR</text>
+<text y="62" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#00f0ff" letter-spacing="1">analog / digital in</text>
+<text y="-42" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#fff" opacity=".5">01</text></g><g transform="translate(300 110)">
+<circle r="46" fill="none" stroke="#ff007f" stroke-opacity=".5"><animate attributeName="r" values="42;58;42" dur="3s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".6;0;.6" dur="3s" begin="0.5s" repeatCount="indefinite"/></circle>
+<path d="M-62 -30H50L62 -18V30H-50L-62 18Z" fill="#0a0a14" stroke="#ff007f" stroke-width="2" filter="url(#glow)"/>
+<text y="4" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="bold" fill="#fff" letter-spacing="1">MCU</text>
+<text y="62" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#ff007f" letter-spacing="1">8051 / embedded C</text>
+<text y="-42" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#fff" opacity=".5">02</text></g><g transform="translate(500 110)">
+<circle r="46" fill="none" stroke="#00f0ff" stroke-opacity=".5"><animate attributeName="r" values="42;58;42" dur="3s" begin="1.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".6;0;.6" dur="3s" begin="1.0s" repeatCount="indefinite"/></circle>
+<path d="M-62 -30H50L62 -18V30H-50L-62 18Z" fill="#0a0a14" stroke="#00f0ff" stroke-width="2" filter="url(#glow)"/>
+<text y="4" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="bold" fill="#fff" letter-spacing="1">GATEWAY</text>
+<text y="62" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#00f0ff" letter-spacing="1">MQTT / HTTP</text>
+<text y="-42" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#fff" opacity=".5">03</text></g><g transform="translate(700 110)">
+<circle r="46" fill="none" stroke="#ff007f" stroke-opacity=".5"><animate attributeName="r" values="42;58;42" dur="3s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".6;0;.6" dur="3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<path d="M-62 -30H50L62 -18V30H-50L-62 18Z" fill="#0a0a14" stroke="#ff007f" stroke-width="2" filter="url(#glow)"/>
+<text y="4" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="bold" fill="#fff" letter-spacing="1">DATA LAYER</text>
+<text y="62" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#ff007f" letter-spacing="1">MySQL</text>
+<text y="-42" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#fff" opacity=".5">04</text></g><g transform="translate(900 110)">
+<circle r="46" fill="none" stroke="#00f0ff" stroke-opacity=".5"><animate attributeName="r" values="42;58;42" dur="3s" begin="2.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".6;0;.6" dur="3s" begin="2.0s" repeatCount="indefinite"/></circle>
+<path d="M-62 -30H50L62 -18V30H-50L-62 18Z" fill="#0a0a14" stroke="#00f0ff" stroke-width="2" filter="url(#glow)"/>
+<text y="4" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="bold" fill="#fff" letter-spacing="1">ANALYTICS</text>
+<text y="62" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#00f0ff" letter-spacing="1">Python · Power BI</text>
+<text y="-42" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#fff" opacity=".5">05</text></g><circle r="4" fill="#fff" filter="url(#glow)"><animateMotion dur="4s" begin="0.0s" repeatCount="indefinite" path="M100 110H900"/></circle><circle r="4" fill="#fff" filter="url(#glow)"><animateMotion dur="4s" begin="1.0s" repeatCount="indefinite" path="M100 110H900"/></circle><circle r="4" fill="#fff" filter="url(#glow)"><animateMotion dur="4s" begin="2.0s" repeatCount="indefinite" path="M100 110H900"/></circle><circle r="4" fill="#fff" filter="url(#glow)"><animateMotion dur="4s" begin="3.0s" repeatCount="indefinite" path="M100 110H900"/></circle><rect width="10" height="3" y="-1.5" fill="#ff007f"><animateMotion dur="4s" begin="0.5s" repeatCount="indefinite" path="M100 110H900"/></rect><rect width="10" height="3" y="-1.5" fill="#ff007f"><animateMotion dur="4s" begin="1.5s" repeatCount="indefinite" path="M100 110H900"/></rect><rect width="10" height="3" y="-1.5" fill="#ff007f"><animateMotion dur="4s" begin="2.5s" repeatCount="indefinite" path="M100 110H900"/></rect><rect width="10" height="3" y="-1.5" fill="#ff007f"><animateMotion dur="4s" begin="3.5s" repeatCount="indefinite" path="M100 110H900"/></rect>
+<text x="500" y="20" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="11" fill="#ff007f" letter-spacing="4">// LIVE DATA PIPELINE: SENSOR → INSIGHT<animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/></text>
+<text x="500" y="208" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="11" fill="#fff" opacity=".55" letter-spacing="3">REAL WORLD ⇄ EMBEDDED ⇄ DATA ⇄ DECISIONS</text>
+</svg>

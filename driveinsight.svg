@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 250" width="480" height="250">
+<defs>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0c18"/><stop offset="1" stop-color="#170028"/></linearGradient>
+<pattern id="crt" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".25"/></pattern>
+</defs>
+<path id="o" d="M2 2H448L478 32V248H32L2 218Z" fill="url(#bg)" stroke="#00f0ff" stroke-opacity=".4" stroke-width="1.5"/>
+<path d="M2 2H448L478 32V248H32L2 218Z" fill="none" stroke="#ff007f" stroke-width="3" pathLength="1000" stroke-dasharray="70 930" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-1000" dur="5s" repeatCount="indefinite"/></path>
+<text x="28" y="40" font-family="'Courier New',Consolas,monospace" font-size="12" fill="#ff007f" letter-spacing="3">[01]<animate attributeName="opacity" values="1;.3;1" dur="2.4s" repeatCount="indefinite"/></text>
+<text x="28" y="66" font-family="'Courier New',Consolas,monospace" font-size="24" font-weight="bold" fill="#fff" letter-spacing="2" filter="url(#glow)">DRIVEINSIGHT.exe</text>
+<text x="28" y="84" font-family="'Courier New',Consolas,monospace" font-size="10" fill="#00f0ff" letter-spacing="2">VEHICLE SERVICE &amp; COMPLAINT ANALYTICS</text>
+<text x="28" y="104" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#d8d8ea">Turns vehicle-service data into</text><text x="28" y="126" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#d8d8ea">actionable analytics: complaints,</text><text x="28" y="148" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#d8d8ea">service cost, ratings, dealers</text><text x="28" y="170" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#d8d8ea">and warranty, via Power BI.</text>
+<line x1="28" y1="200" x2="452" y2="200" stroke="#00f0ff" stroke-opacity=".3" stroke-dasharray="4 4"/>
+<text x="28" y="226" font-family="'Courier New',Consolas,monospace" font-size="12" fill="#ff007f" letter-spacing="1">▸ Python · Pandas · Power BI · MySQL</text>
+<rect width="480" height="250" fill="url(#crt)"/>
+<rect x="0" width="480" height="2" fill="#00f0ff" opacity=".25"><animate attributeName="y" values="-4;250" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
